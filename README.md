@@ -11,5 +11,5 @@ Just download and run the 'CloseUnclosable.bat' file
 **Find a process**
 This will help you finding the process name of a program if you dont know
 
-## CloseUnclosable
-**After you found out the process name of the program, run this option and type the process name. The process you type will automatically closed**
+**CloseUnclosable**
+After you found out the process name of the program, run this option and type the process name. The process you type will automatically closed
